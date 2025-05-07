@@ -14,3 +14,4 @@ A simulated Python script that mimics real-time Wi-Fi scanning for testing and Q
 ## How to Run
 '''bash
 python3 wifi_scanner.py
+'''
